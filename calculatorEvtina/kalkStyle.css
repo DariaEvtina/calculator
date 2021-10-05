@@ -1,0 +1,26 @@
+fieldset{
+    max-width:500px;
+    padding:30px;
+    background-color: gainsboro;
+    color: cadetblue;
+    border-bottom-right-radius: initial;
+}
+legend{
+    margin-bottom: 0;
+    margin-left: 16px;
+}
+input[type=number]{
+    size: 10px;
+    background-color: azure;
+
+}
+h1{
+    background-color: cadetblue;
+    color: azure;
+}
+form#var2{
+    background-color: gainsboro;
+    color: cadetblue;
+    border-left:solid 5px midnightblue;
+    border-right:solid 5px midnightblue;
+}
